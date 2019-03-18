@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nederburg</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Nederburg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 18 Mar 2019 15:31:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Philippe 3</title>
+      <link>https://example.org/post/philippe3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/philippe3/</guid>
+      <description>bonjour</description>
+    </item>
+    
+    <item>
+      <title>Bayern</title>
+      <link>https://example.org/post/bayern/</link>
+      <pubDate>Mon, 18 Mar 2019 15:31:50 +0000</pubDate>
+      
+      <guid>https://example.org/post/bayern/</guid>
+      <description>Contenu</description>
+    </item>
+    
+  </channel>
+</rss>
