@@ -7,11 +7,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
+- type: file
   label: Image
-  type: text
-  hidden: false
-  default: ''
+  name: image
 - name: categories
   label: Categories
   type: tag_list
